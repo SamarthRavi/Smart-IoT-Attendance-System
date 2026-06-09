@@ -83,13 +83,13 @@ https://youtu.be/ioga5dQ4WoA
 
 ## Dashboard Preview
 
-Dashboard screenshot available in this repository.
+![Dashboard](Dashboard.png)
 
 ---
 
 ## Firebase Database Preview
 
-Database screenshot available in this repository.
+![Database](Database.png)
 
 ---
 
